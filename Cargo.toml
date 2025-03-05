@@ -1,5 +1,5 @@
 [workspace]
 
 members = [
-    "project", "project10", "project11", "project13", "project14", "project15", "project16", "project17", "project18", "project2", "project4", "project5", "project7", "project8", "project9", "projet12", "projet6",
+    "project", "project10", "project11", "project13", "project14", "project15", "project16", "project18", "project19", "project2", "project4", "project5", "project7", "project8", "project9", "projet12", "projet6",
     ]
